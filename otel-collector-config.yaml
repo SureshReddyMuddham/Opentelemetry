@@ -24,7 +24,7 @@ exporters:
   datadog:
     api:
       site: datadoghq.com
-      key: 5a123f693b709605b75100b8fb7e7ca4
+      key: <update key here>
 service:
   pipelines:
     traces:
