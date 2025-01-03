@@ -1,0 +1,290 @@
+{"level":"info","message":"This is an info message with a timestamp","timestamp":"2024-12-10T07:55:36.777Z"}
+{"level":"info","message":"This is an info message with a timestamp","timestamp":"2024-12-10T08:15:30.720Z"}
+{"level":"info","message":"server started at http://localhost:5001","timestamp":"2024-12-10T08:15:30.728Z"}
+{"level":"info","message":"This is an info message with a timestamp","timestamp":"2024-12-10T08:21:40.947Z"}
+{"level":"info","message":"Server started at http://localhost:5001","timestamp":"2024-12-10T08:21:40.950Z"}
+{"level":"info","message":"This is an info message with a timestamp","timestamp":"2024-12-10T08:22:11.262Z"}
+{"level":"info","message":"Server started at http://localhost:5001","timestamp":"2024-12-10T08:22:11.266Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T08:23:15.039Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-10T08:23:15.043Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T08:31:21.443Z"}
+{"level":"warn","message":"This is an warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T08:31:21.444Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T08:31:21.445Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-10T08:31:21.446Z"}
+2024-12-10T08:35:07.437Z info [nodeApp] This is an info message with a timestamp
+2024-12-10T08:35:07.439Z warn [nodeApp] This is a warn message with a timestamp
+2024-12-10T08:35:07.440Z error [nodeApp] This is an error message with a timestamp
+2024-12-10T08:35:07.441Z info [nodeApp] Server started at http://localhost:5001
+{"level":"info","message":"This is an info message with a timestamp","timestamp":"2024-12-10T08:36:36.941Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","timestamp":"2024-12-10T08:36:36.943Z"}
+{"level":"error","message":"This is an error message with a timestamp","timestamp":"2024-12-10T08:36:36.943Z"}
+{"level":"info","message":"Server started at http://localhost:5001","timestamp":"2024-12-10T08:36:36.945Z"}
+{"level":"info","message":"This is an info message with a timestamp","timestamp":"2024-12-10T08:37:10.399Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","timestamp":"2024-12-10T08:37:10.401Z"}
+{"level":"error","message":"This is an error message with a timestamp","timestamp":"2024-12-10T08:37:10.401Z"}
+{"level":"info","message":"Server started at http://localhost:5001","timestamp":"2024-12-10T08:37:10.403Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T08:38:48.023Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T08:38:48.025Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T08:38:48.025Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-10T08:38:48.027Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T08:40:08.434Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T08:40:08.436Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T08:40:08.436Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-10T08:40:08.437Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T10:26:07.212Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T10:26:07.218Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T10:26:07.218Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-10T10:26:07.220Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T10:36:46.649Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T10:36:46.651Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T10:36:46.651Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-10T10:36:46.653Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T12:26:24.893Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T12:26:24.895Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-10T12:26:24.895Z"}
+{"level":"info","service":"nodeApp","timestamp":"2024-12-10T12:26:24.897Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-10T12:26:24.897Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-16T07:28:14.604Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-16T07:28:14.609Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-16T07:28:14.610Z"}
+{"level":"info","service":"nodeApp","timestamp":"2024-12-16T07:28:14.611Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-16T07:28:14.620Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:21:33.631Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:21:33.636Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:21:33.636Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T09:21:33.638Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T09:21:33.647Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:27:19.672Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:27:19.674Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:27:19.674Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T09:27:19.676Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T09:27:19.684Z"}
+{"level":"info","message":"messga: books endpoint is available","service":"nodeApp","timestamp":"2024-12-18T09:27:24.781Z"}
+{"level":"info","message":"messga: books endpoint is available","service":"nodeApp","timestamp":"2024-12-18T09:27:25.614Z"}
+{"level":"info","message":"messga: books endpoint is available","service":"nodeApp","timestamp":"2024-12-18T09:27:26.167Z"}
+{"level":"info","message":"messga: books endpoint is available","service":"nodeApp","timestamp":"2024-12-18T09:27:26.716Z"}
+{"level":"info","message":"messga: books endpoint is available","service":"nodeApp","timestamp":"2024-12-18T09:27:27.078Z"}
+{"level":"info","message":"messga: books endpoint is available","service":"nodeApp","timestamp":"2024-12-18T09:27:27.287Z"}
+{"level":"info","message":"messga: books endpoint is available","service":"nodeApp","timestamp":"2024-12-18T09:27:29.827Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:51:21.906Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:51:21.912Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:51:21.913Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T09:51:21.915Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T09:51:21.924Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:55:44.191Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:55:44.196Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T09:55:44.196Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T09:55:44.198Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T09:55:44.206Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:09:23.785Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:09:23.791Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:09:23.791Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T10:09:23.793Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T10:09:23.802Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:09:55.260Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:09:55.265Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:09:55.265Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T10:09:55.268Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T10:09:55.276Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:10:55.603Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:10:55.609Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:10:55.609Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T10:10:55.611Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T10:10:55.620Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:13:54.940Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:13:54.946Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:13:54.946Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T10:13:54.948Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T10:13:54.956Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:28:03.966Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:28:03.968Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:28:03.968Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T10:28:03.970Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T10:28:03.979Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:28:23.873Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:28:23.875Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:28:23.875Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T10:28:23.876Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T10:28:23.885Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:29:37.357Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:29:37.359Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T10:29:37.359Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T10:29:37.361Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T10:29:37.368Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T12:59:07.616Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T12:59:07.619Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T12:59:07.619Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T12:59:07.620Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T12:59:07.628Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:01:49.131Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:01:49.138Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:01:49.138Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T13:01:49.141Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T13:01:49.150Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:08:53.069Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:08:53.074Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:08:53.074Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T13:08:53.076Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T13:08:53.086Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:11:04.567Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:11:04.568Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:11:04.569Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T13:11:04.570Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T13:11:04.577Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:15:21.625Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:15:21.629Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:15:21.630Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T13:15:21.631Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T13:15:21.639Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:16:35.589Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:16:35.591Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:16:35.591Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T13:16:35.592Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T13:16:35.601Z"}
+{"level":"info","message":"new product is added successsfully","service":"nodeApp","timestamp":"2024-12-18T13:16:45.630Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:18:46.949Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:18:46.951Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:18:46.951Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T13:18:46.952Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T13:18:46.961Z"}
+{"level":"info","message":"New product added:\n            Name: test8,\n            Price: 108,\n            Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","timestamp":"2024-12-18T13:18:57.799Z"}
+{"level":"info","message":"New product added:\n            Name: test9,\n            Price: 109,\n            Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","timestamp":"2024-12-18T13:19:07.819Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:21:57.734Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:21:57.741Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:21:57.741Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T13:21:57.744Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T13:21:57.753Z"}
+{"level":"info","message":"New product added: Name: test10, Price: 110, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","timestamp":"2024-12-18T13:21:59.907Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:25:00.786Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:25:00.791Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:25:00.791Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T13:25:00.793Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T13:25:00.800Z"}
+{"level":"info","message":"New product added: Name: test11, Price: 111, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","timestamp":"2024-12-18T13:25:03.748Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:27:03.607Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:27:03.608Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-18T13:27:03.609Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-18T13:27:03.611Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-18T13:27:03.618Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-18T13:27:08.425Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-18T13:27:09.349Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-18T13:27:09.967Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T07:33:21.934Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T07:33:21.940Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T07:33:21.940Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-31T07:33:21.942Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-31T07:33:21.955Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T07:33:51.909Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T07:36:37.100Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T07:37:14.282Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T07:37:55.043Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T07:39:06.240Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T07:39:21.610Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T07:39:38.724Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T07:40:05.099Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T07:41:59.531Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T07:45:25.121Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T07:45:25.128Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T07:45:25.128Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-31T07:45:25.131Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-31T07:45:25.141Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T07:46:06.929Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T08:05:27.726Z"}
+{"level":"error","message":"Error in Create Product:","service":"nodeApp","timestamp":"2024-12-31T08:10:18.636Z"}
+{"level":"info","message":"New product added: Name: test13, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","timestamp":"2024-12-31T08:10:44.033Z"}
+{"level":"info","message":"New product added: Name: test14, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","timestamp":"2024-12-31T08:11:03.005Z"}
+{"level":"info","message":"New product added: Name: test14, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","timestamp":"2024-12-31T08:12:39.005Z"}
+{"level":"info","message":"New product added: Name: test14, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","timestamp":"2024-12-31T08:12:40.136Z"}
+{"level":"info","message":"New product added: Name: test14, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","timestamp":"2024-12-31T08:12:41.261Z"}
+{"level":"info","message":"New product added: Name: test14, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","timestamp":"2024-12-31T08:12:42.131Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T08:36:26.970Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T08:36:26.976Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T08:36:26.976Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-31T08:36:26.978Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-31T08:36:26.989Z"}
+{"level":"info","message":"Fetched 21 products successfully. Product details:","products":[{"image":"https://fastly.picsum.photos/id/24/4855/1803.jpg?hmac=ICVhP1pUXDLXaTkgwDJinSUS59UWalMxf4SOIWb9Ui4","name":"best seller books now","price":100},{"image":"https://fastly.picsum.photos/id/30/1280/901.jpg?hmac=A_hpFyEavMBB7Dsmmp53kPXKmatwM05MUDatlWSgATE","name":"cup","price":10},{"image":"https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ","name":"laptop","price":4500},{"image":"https://picsum.photos/id/121/1600/1067","name":"test","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test1","price":100},{"image":"https://picsum.photos/id/121/1600/1067","name":"test2","price":102},{"image":"https://picsum.photos/id/121/1600/1067","name":"test3","price":103},{"image":"https://picsum.photos/id/121/1600/1067","name":"test4","price":104},{"image":"https://picsum.photos/id/121/1600/1067","name":"test5","price":105},{"image":"https://picsum.photos/id/121/1600/1067","name":"test6","price":106},{"image":"https://picsum.photos/id/121/1600/1067","name":"test7","price":107},{"image":"https://picsum.photos/id/121/1600/1067","name":"test8","price":108},{"image":"https://picsum.photos/id/121/1600/1067","name":"test9","price":109},{"image":"https://picsum.photos/id/121/1600/1067","name":"test10","price":110},{"image":"https://picsum.photos/id/121/1600/1067","name":"test11","price":111},{"image":"https://picsum.photos/id/121/1600/1067","name":"test13","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12}],"service":"nodeApp","timestamp":"2024-12-31T08:37:23.853Z"}
+{"level":"info","message":"Fetched 21 products successfully. Product details:","products":[{"image":"https://fastly.picsum.photos/id/24/4855/1803.jpg?hmac=ICVhP1pUXDLXaTkgwDJinSUS59UWalMxf4SOIWb9Ui4","name":"best seller books now","price":100},{"image":"https://fastly.picsum.photos/id/30/1280/901.jpg?hmac=A_hpFyEavMBB7Dsmmp53kPXKmatwM05MUDatlWSgATE","name":"cup","price":10},{"image":"https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ","name":"laptop","price":4500},{"image":"https://picsum.photos/id/121/1600/1067","name":"test","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test1","price":100},{"image":"https://picsum.photos/id/121/1600/1067","name":"test2","price":102},{"image":"https://picsum.photos/id/121/1600/1067","name":"test3","price":103},{"image":"https://picsum.photos/id/121/1600/1067","name":"test4","price":104},{"image":"https://picsum.photos/id/121/1600/1067","name":"test5","price":105},{"image":"https://picsum.photos/id/121/1600/1067","name":"test6","price":106},{"image":"https://picsum.photos/id/121/1600/1067","name":"test7","price":107},{"image":"https://picsum.photos/id/121/1600/1067","name":"test8","price":108},{"image":"https://picsum.photos/id/121/1600/1067","name":"test9","price":109},{"image":"https://picsum.photos/id/121/1600/1067","name":"test10","price":110},{"image":"https://picsum.photos/id/121/1600/1067","name":"test11","price":111},{"image":"https://picsum.photos/id/121/1600/1067","name":"test13","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12}],"service":"nodeApp","timestamp":"2024-12-31T08:37:24.533Z"}
+{"level":"info","message":"Fetched 21 products successfully. Product details:","products":[{"image":"https://fastly.picsum.photos/id/24/4855/1803.jpg?hmac=ICVhP1pUXDLXaTkgwDJinSUS59UWalMxf4SOIWb9Ui4","name":"best seller books now","price":100},{"image":"https://fastly.picsum.photos/id/30/1280/901.jpg?hmac=A_hpFyEavMBB7Dsmmp53kPXKmatwM05MUDatlWSgATE","name":"cup","price":10},{"image":"https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ","name":"laptop","price":4500},{"image":"https://picsum.photos/id/121/1600/1067","name":"test","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test1","price":100},{"image":"https://picsum.photos/id/121/1600/1067","name":"test2","price":102},{"image":"https://picsum.photos/id/121/1600/1067","name":"test3","price":103},{"image":"https://picsum.photos/id/121/1600/1067","name":"test4","price":104},{"image":"https://picsum.photos/id/121/1600/1067","name":"test5","price":105},{"image":"https://picsum.photos/id/121/1600/1067","name":"test6","price":106},{"image":"https://picsum.photos/id/121/1600/1067","name":"test7","price":107},{"image":"https://picsum.photos/id/121/1600/1067","name":"test8","price":108},{"image":"https://picsum.photos/id/121/1600/1067","name":"test9","price":109},{"image":"https://picsum.photos/id/121/1600/1067","name":"test10","price":110},{"image":"https://picsum.photos/id/121/1600/1067","name":"test11","price":111},{"image":"https://picsum.photos/id/121/1600/1067","name":"test13","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12}],"service":"nodeApp","timestamp":"2024-12-31T08:37:25.135Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T08:38:55.297Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T08:38:55.300Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T08:38:55.300Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-31T08:38:55.301Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-31T08:38:55.311Z"}
+{"level":"info","message":"Fetched 21 products successfully. Product details:","products":[{"image":"https://fastly.picsum.photos/id/24/4855/1803.jpg?hmac=ICVhP1pUXDLXaTkgwDJinSUS59UWalMxf4SOIWb9Ui4","name":"best seller books now","price":100},{"image":"https://fastly.picsum.photos/id/30/1280/901.jpg?hmac=A_hpFyEavMBB7Dsmmp53kPXKmatwM05MUDatlWSgATE","name":"cup","price":10},{"image":"https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ","name":"laptop","price":4500},{"image":"https://picsum.photos/id/121/1600/1067","name":"test","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test1","price":100},{"image":"https://picsum.photos/id/121/1600/1067","name":"test2","price":102},{"image":"https://picsum.photos/id/121/1600/1067","name":"test3","price":103},{"image":"https://picsum.photos/id/121/1600/1067","name":"test4","price":104},{"image":"https://picsum.photos/id/121/1600/1067","name":"test5","price":105},{"image":"https://picsum.photos/id/121/1600/1067","name":"test6","price":106},{"image":"https://picsum.photos/id/121/1600/1067","name":"test7","price":107},{"image":"https://picsum.photos/id/121/1600/1067","name":"test8","price":108},{"image":"https://picsum.photos/id/121/1600/1067","name":"test9","price":109},{"image":"https://picsum.photos/id/121/1600/1067","name":"test10","price":110},{"image":"https://picsum.photos/id/121/1600/1067","name":"test11","price":111},{"image":"https://picsum.photos/id/121/1600/1067","name":"test13","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12}],"service":"nodeApp","timestamp":"2024-12-31T08:38:58.215Z"}
+{"level":"info","message":"This is an info message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T08:40:00.766Z"}
+{"level":"warn","message":"This is a warn message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T08:40:00.768Z"}
+{"level":"error","message":"This is an error message with a timestamp","service":"nodeApp","timestamp":"2024-12-31T08:40:00.768Z"}
+{"level":"info","message":"process.env.MONGO_URI","service":"nodeApp","timestamp":"2024-12-31T08:40:00.769Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2024-12-31T08:40:00.777Z"}
+{"level":"info","message":"Fetched 21 products successfully. Product details:","products":[{"image":"https://fastly.picsum.photos/id/24/4855/1803.jpg?hmac=ICVhP1pUXDLXaTkgwDJinSUS59UWalMxf4SOIWb9Ui4","name":"best seller books now","price":100},{"image":"https://fastly.picsum.photos/id/30/1280/901.jpg?hmac=A_hpFyEavMBB7Dsmmp53kPXKmatwM05MUDatlWSgATE","name":"cup","price":10},{"image":"https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ","name":"laptop","price":4500},{"image":"https://picsum.photos/id/121/1600/1067","name":"test","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test1","price":100},{"image":"https://picsum.photos/id/121/1600/1067","name":"test2","price":102},{"image":"https://picsum.photos/id/121/1600/1067","name":"test3","price":103},{"image":"https://picsum.photos/id/121/1600/1067","name":"test4","price":104},{"image":"https://picsum.photos/id/121/1600/1067","name":"test5","price":105},{"image":"https://picsum.photos/id/121/1600/1067","name":"test6","price":106},{"image":"https://picsum.photos/id/121/1600/1067","name":"test7","price":107},{"image":"https://picsum.photos/id/121/1600/1067","name":"test8","price":108},{"image":"https://picsum.photos/id/121/1600/1067","name":"test9","price":109},{"image":"https://picsum.photos/id/121/1600/1067","name":"test10","price":110},{"image":"https://picsum.photos/id/121/1600/1067","name":"test11","price":111},{"image":"https://picsum.photos/id/121/1600/1067","name":"test13","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12},{"image":"https://picsum.photos/id/121/1600/1067","name":"test14","price":12}],"service":"nodeApp","timestamp":"2024-12-31T08:40:05.613Z"}
+{"level":"info","message":"Server starting...","service":"nodeApp","timestamp":"2025-01-02T11:38:55.382Z"}
+{"level":"info","message":"Initializing MongoDB connection...","service":"nodeApp","timestamp":"2025-01-02T11:38:55.386Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2025-01-02T11:38:55.395Z"}
+{"level":"info","message":"Fetched 24 products successfully.","service":"nodeApp","span_id":"2d3273549dfce8b3","timestamp":"2025-01-02T11:39:33.343Z","trace_flags":"01","trace_id":"ad1f243b462bfaed87450ad89d05d6b8"}
+{"level":"info","message":"Server starting...","service":"nodeApp","timestamp":"2025-01-02T17:43:07.535Z"}
+{"level":"info","message":"Initializing MongoDB connection...","service":"nodeApp","timestamp":"2025-01-02T17:43:07.541Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"nodeApp","timestamp":"2025-01-02T17:43:07.551Z"}
+{"level":"info","message":"Fetched 41 products successfully.","service":"nodeApp","span_id":"e2e617f79fb81dfd","timestamp":"2025-01-02T17:43:22.160Z","trace_flags":"01","trace_id":"26f444b7d0f382d38a29aef8dca7790c"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"6de0ce944ce039fa","timestamp":"2025-01-02T17:44:26.844Z","trace_flags":"01","trace_id":"2f24b41c1779b0e9161d465c17630c2c"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"87a06e320332ed49","timestamp":"2025-01-02T17:44:29.319Z","trace_flags":"01","trace_id":"d7961ca6cce96e302182fc7523bf739d"}
+{"level":"info","message":"Fetched 43 products successfully.","service":"nodeApp","span_id":"bb3914cc9143acf3","timestamp":"2025-01-02T17:44:32.294Z","trace_flags":"01","trace_id":"20306c14ce76acfe5bf87e0cf2be19ab"}
+{"level":"info","message":"Fetched 43 products successfully.","service":"nodeApp","span_id":"e9355e9cabb8d841","timestamp":"2025-01-02T17:44:32.957Z","trace_flags":"01","trace_id":"670ea24bc031561957313de0c0d2ccaf"}
+{"level":"info","message":"Fetched 43 products successfully.","service":"nodeApp","span_id":"0cd3240abb540e02","timestamp":"2025-01-02T17:44:33.542Z","trace_flags":"01","trace_id":"d797e8c0a56f8b93192328d7f237a89c"}
+{"level":"info","message":"Fetched 43 products successfully.","service":"nodeApp","span_id":"df0b8b5dde1a319d","timestamp":"2025-01-02T17:46:08.432Z","trace_flags":"01","trace_id":"11d6ba2162a3ef5a6eeba43bdc11a5a0"}
+{"level":"info","message":"Fetched 43 products successfully.","service":"nodeApp","span_id":"cdfb3cffb78f80e5","timestamp":"2025-01-02T17:46:08.921Z","trace_flags":"01","trace_id":"f9cb7107d1a9c33f536674f64bc31192"}
+{"level":"info","message":"Fetched 43 products successfully.","service":"nodeApp","span_id":"5a17cc597609a364","timestamp":"2025-01-02T17:46:09.478Z","trace_flags":"01","trace_id":"87144b563fe2c19dad74822bc50eaaaf"}
+{"level":"info","message":"Fetched 43 products successfully.","service":"nodeApp","span_id":"09ea3b1a34aa588d","timestamp":"2025-01-02T18:18:56.180Z","trace_flags":"01","trace_id":"05e704718d3aaf786a53b9c5593f2b7c"}
+{"level":"info","message":"Fetched 43 products successfully.","service":"nodeApp","span_id":"01bb46b797f47b08","timestamp":"2025-01-02T18:18:57.540Z","trace_flags":"01","trace_id":"5e3c7990b92f08e10de7b7d5c1609ceb"}
+{"level":"info","message":"Fetched 43 products successfully.","service":"nodeApp","span_id":"9bf9ae91a1d7ef71","timestamp":"2025-01-02T18:18:58.197Z","trace_flags":"01","trace_id":"e4c29dbd5c893c3313c26cbbac3fa7b7"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"a936472c1263c686","timestamp":"2025-01-02T18:19:01.288Z","trace_flags":"01","trace_id":"fb135080efba000d2aee0c7c510aaf28"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"bccb0b67e30172e9","timestamp":"2025-01-02T18:19:01.880Z","trace_flags":"01","trace_id":"2eb462e2e5f682502e68dfcae7f95a58"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"ecfd5fbb8b04e715","timestamp":"2025-01-02T18:19:02.883Z","trace_flags":"01","trace_id":"0f0bded1b7fdba67718fa392f4b3e065"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"79079fd9ba6ee02f","timestamp":"2025-01-02T18:19:03.569Z","trace_flags":"01","trace_id":"a93a4cd4a624816a54022ab63dfc659f"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"cc48031c34d7b354","timestamp":"2025-01-02T18:19:04.104Z","trace_flags":"01","trace_id":"75b6731a07559a8cd6311f4922746be6"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"500dfad10b388cba","timestamp":"2025-01-02T18:32:58.374Z","trace_flags":"01","trace_id":"350926dcaa82b12970d2f1de97822e9b"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"56c4e7eeecdbee56","timestamp":"2025-01-02T18:32:58.786Z","trace_flags":"01","trace_id":"e96766a6fb4f97fd83f5b92393b251d6"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"2375d53f1ec88960","timestamp":"2025-01-02T18:32:59.484Z","trace_flags":"01","trace_id":"2163e6397cc9fc865bd094d6470f71c1"}
+{"level":"info","message":"Fetched 51 products successfully.","service":"nodeApp","span_id":"a688070af6516aa7","timestamp":"2025-01-02T18:36:06.346Z","trace_flags":"01","trace_id":"6f205a7f60d3a7f3ec6a51c7def41ea4"}
+{"level":"info","message":"Fetched 51 products successfully.","service":"nodeApp","span_id":"95aafd771b3cab79","timestamp":"2025-01-02T18:41:07.180Z","trace_flags":"01","trace_id":"032fad1bbd90474bff3f4483100f9ea5"}
+{"level":"info","message":"Fetched 51 products successfully.","service":"nodeApp","span_id":"94068e646c4cfc2f","timestamp":"2025-01-02T18:45:45.266Z","trace_flags":"01","trace_id":"6e1e632cdab479b1e10cbaabd164abd5"}
+{"level":"info","message":"Fetched 51 products successfully.","service":"nodeApp","span_id":"75e038739e006dff","timestamp":"2025-01-02T18:46:54.994Z","trace_flags":"01","trace_id":"8859ccc76c9ce8f50f07b7d7484b0057"}
+{"level":"info","message":"Fetched 51 products successfully.","service":"nodeApp","span_id":"c9694cc4261a0400","timestamp":"2025-01-02T18:46:55.445Z","trace_flags":"01","trace_id":"cd315644b3dea0b15cddd844e1ddba1d"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"2ccdc5c864a3a921","timestamp":"2025-01-02T18:46:58.162Z","trace_flags":"01","trace_id":"40ef6c1197b4a3671c779f969cbd402e"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"7d9e64ddd912ef71","timestamp":"2025-01-02T18:46:58.721Z","trace_flags":"01","trace_id":"a0b0ae088ca39dead1e073fb83b859bd"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"a40be79473957a1f","timestamp":"2025-01-02T18:59:03.454Z","trace_flags":"01","trace_id":"2a05a9fb6409287bf43db4dcf1226e79"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"557abb2cb78b4a74","timestamp":"2025-01-02T18:59:03.837Z","trace_flags":"01","trace_id":"6e5b4119a51856f9ae4452cadfd437a9"}
+{"level":"info","message":"Fetched 55 products successfully.","service":"nodeApp","span_id":"67840ea2453e7a2e","timestamp":"2025-01-02T18:59:06.698Z","trace_flags":"01","trace_id":"2eaef8186bb09a0001eac089d4ca737d"}
+{"level":"info","message":"Fetched 55 products successfully.","service":"nodeApp","span_id":"8e4d35b007c2f593","timestamp":"2025-01-02T18:59:07.127Z","trace_flags":"01","trace_id":"14eb853a28bdc877d9fd81cbcffaa87d"}
+{"level":"info","message":"Fetched 55 products successfully.","service":"nodeApp","span_id":"98113ea299c2dc57","timestamp":"2025-01-02T18:59:07.610Z","trace_flags":"01","trace_id":"95928b2828cc9a497ad40f8fe052c364"}
+{"level":"info","message":"Fetched 55 products successfully.","service":"nodeApp","span_id":"3550309c82f72e9e","timestamp":"2025-01-02T18:59:07.963Z","trace_flags":"01","trace_id":"635deba92422398b83d871899263ee6b"}
+{"level":"info","message":"Fetched 55 products successfully.","service":"nodeApp","span_id":"37ff80201063cd97","timestamp":"2025-01-02T19:11:30.380Z","trace_flags":"01","trace_id":"6b3592991aabfec3fd4a1f195efdc372"}
+{"level":"info","message":"Fetched 55 products successfully.","service":"nodeApp","span_id":"e17f063180625ea8","timestamp":"2025-01-02T19:11:30.958Z","trace_flags":"01","trace_id":"233560843f1a6938ce45ada47081a503"}
+{"level":"info","message":"Fetched 55 products successfully.","service":"nodeApp","span_id":"76d91c042bf4e10c","timestamp":"2025-01-02T19:11:31.556Z","trace_flags":"01","trace_id":"cc8b4123fc4ef436521243c051f1fc6d"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"34356da146173f4e","timestamp":"2025-01-02T19:11:34.385Z","trace_flags":"01","trace_id":"66fcda291a5bf4755b4cdc4fb660f7ee"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"109adad425ddf10e","timestamp":"2025-01-02T19:11:34.968Z","trace_flags":"01","trace_id":"270cb824e5c571ce0e71db99158fcdfc"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"058090c6dde011ec","timestamp":"2025-01-02T19:11:35.498Z","trace_flags":"01","trace_id":"0982f7a3558e3703ec63a56031d4e110"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"050f3c3442097030","timestamp":"2025-01-02T19:12:22.582Z","trace_flags":"01","trace_id":"b66e0de2c18b0c6b0336a0e92a4d7fd1"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"547de7c594396ba9","timestamp":"2025-01-02T19:12:23.155Z","trace_flags":"01","trace_id":"e6fca44d125adec1221bcdad445d46e8"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"ab3df87390cb0a2c","timestamp":"2025-01-02T19:12:23.659Z","trace_flags":"01","trace_id":"93b1a350d4f0b5af2259e8ca37fcd582"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"nodeApp","span_id":"3b41bed032008a5c","timestamp":"2025-01-02T19:15:16.706Z","trace_flags":"01","trace_id":"23f86255eaec13f6bdf932e91d729694"}
+{"level":"info","message":"Server starting...","service":"my-service","timestamp":"2025-01-03T06:12:36.212Z"}
+{"level":"info","message":"Initializing MongoDB connection...","service":"my-service","timestamp":"2025-01-03T06:12:36.217Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"my-service","timestamp":"2025-01-03T06:12:36.226Z"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"my-service","span_id":"81b9f725ea419711","timestamp":"2025-01-03T06:12:50.474Z","trace_flags":"01","trace_id":"05a938dc110ca1fd3903ce5b81860d53"}
+{"level":"info","message":"New product added: Name: test16, Price: 12, Image URL: https://picsum.photos/id/121/1600/1067","service":"my-service","span_id":"32b28938fb4d27cd","timestamp":"2025-01-03T06:12:57.687Z","trace_flags":"01","trace_id":"806d509348a6886763ecd55605919a5d"}
+{"level":"info","message":"Fetched 64 products successfully.","service":"my-service","span_id":"1ad7248e57398f5c","timestamp":"2025-01-03T06:13:08.261Z","trace_flags":"01","trace_id":"c1aa911846b1ada00e3027123dc636ea"}
+{"level":"info","message":"Fetched 64 products successfully.","service":"my-service","span_id":"4389c6f8ef60559e","timestamp":"2025-01-03T06:13:09.021Z","trace_flags":"01","trace_id":"267415155d7f5328f1d35d157c87f7a0"}
+{"level":"error","message":"Error in Create Product:","service":"my-service","span_id":"d636a5448d606bd7","timestamp":"2025-01-03T06:21:45.464Z","trace_flags":"01","trace_id":"b08b0bd75e447ac7051a7dd7d9277504"}
+{"level":"error","message":"Error in Create Product:","service":"my-service","span_id":"bf1222d9068b81d2","timestamp":"2025-01-03T06:21:46.890Z","trace_flags":"01","trace_id":"21f87330d56565e43d926392482ff541"}
+{"level":"error","message":"Error in Create Product:","service":"my-service","span_id":"fa9eb438fd6f043c","timestamp":"2025-01-03T06:21:47.522Z","trace_flags":"01","trace_id":"2120b84d18c9d58912290a57ecc22dcc"}
+{"level":"error","message":"Error in Create Product:","service":"my-service","span_id":"5f5292dccfca6883","timestamp":"2025-01-03T06:30:35.149Z","trace_flags":"01","trace_id":"956ae40b27c074fa0bd42f72eab81b8d"}
+{"level":"error","message":"Error in Create Product:","service":"my-service","span_id":"a0ed2a0a1f4502ec","timestamp":"2025-01-03T06:30:37.694Z","trace_flags":"01","trace_id":"6a9d55aade8c015680d070694033ce3c"}
+{"level":"info","message":"Server starting...","service":"my-service","timestamp":"2025-01-03T06:44:00.389Z"}
+{"level":"info","message":"Initializing MongoDB connection...","service":"my-service","timestamp":"2025-01-03T06:44:00.395Z"}
+{"level":"info","message":"Server started at http://localhost:5001","service":"my-service","timestamp":"2025-01-03T06:44:00.404Z"}
+{"level":"info","message":"Fetched 64 products successfully.","service":"my-service","span_id":"7540c1de4dd32391","timestamp":"2025-01-03T06:44:59.836Z","trace_flags":"01","trace_id":"733c9297691502af4f9ff0ab6b0f0a9b"}
+{"level":"info","message":"Fetched 64 products successfully.","service":"my-service","span_id":"fac2de5200632eea","timestamp":"2025-01-03T06:45:00.384Z","trace_flags":"01","trace_id":"c23a6c715d743d3e44c799b76f1512ed"}
+{"level":"error","message":"Error in Create Product:","service":"my-service","span_id":"683b244527b25cce","timestamp":"2025-01-03T06:45:02.717Z","trace_flags":"01","trace_id":"a0fa5bdef71358e0304766cf77c9c161"}
+{"level":"error","message":"Error in Create Product:","service":"my-service","span_id":"2218307dce4ebace","timestamp":"2025-01-03T06:45:03.295Z","trace_flags":"01","trace_id":"3675b1b43cd4cf89ff5b4feb84b7628e"}
+{"level":"error","message":"Error in Create Product:","service":"my-service","span_id":"2e97a632e96508c1","timestamp":"2025-01-03T06:45:03.832Z","trace_flags":"01","trace_id":"d225102b79f7a885c62afedb9c0f8847"}
+{"level":"error","message":"Error in Create Product:","service":"my-service","span_id":"acf94a842a8b20fe","timestamp":"2025-01-03T06:45:04.353Z","trace_flags":"01","trace_id":"ff04f0f2dba77a1c5b2b4cff2f80675e"}

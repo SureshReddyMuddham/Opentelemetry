@@ -1,0 +1,30 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "A demo Node.js app with OpenTelemetry integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "opentelemetry",
+    "nodejs",
+    "metrics",
+    "tracing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@opentelemetry/exporter-metrics-otlp-http": "^0.57.0",
+    "@opentelemetry/exporter-metrics-otlp-proto": "^0.57.0",
+    "@opentelemetry/exporter-trace-otlp-http": "^0.57.0",
+    "@opentelemetry/semantic-conventions": "^1.28.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4",
+    "winston": "^3.17.0"
+  }
+}
